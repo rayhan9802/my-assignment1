@@ -103,13 +103,13 @@ font-weight: 700;
 /*background section */
 
 .bg-container{
-    height: 100vh;
+    max-width: 1440px;
+height:350px;
     background-image: url("Rectangle\ 9.png") ;
     background-repeat: no-repeat;
-   margin: 170px;
+   margin: 100px 170px;
    text-align: center;
    padding-top: 100px;
-   gap: 10px;
 }
 .input-email{
     width: 500px;
@@ -123,4 +123,39 @@ height: 40px;
 border: 0px;
 border-radius: 5px;
 background: #f56282
+}
+
+/* this the last section */
+
+.last-section{
+    max-width: 1500px;
+    height: 350px;
+    background: #111010;
+
+}
+.last-des{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.last-title{
+    color: #E55473;
+font-size: 30px;
+font-weight: 800;
+text-align: center;
+}
+.last-section{
+padding-top: 100px;
+}
+.color{
+    color: white;
+}
+.last-ds{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+
 }
