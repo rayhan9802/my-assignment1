@@ -159,3 +159,17 @@ font-size: 16px;
 font-weight: 400;
 
 }
+
+/* myself section */
+
+.title{
+    
+}
+.container{
+    max-width: 1440px;
+    height: 600px;
+    background: rgba(5, 151, 160, 0.15);
+    padding-top: 50px;
+margin: 160px;
+border-radius: 300px 0px 300px 0px;
+}
